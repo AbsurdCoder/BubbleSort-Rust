@@ -1,6 +1,6 @@
 #[warn(non_snake_case)]
 // This code does the basic Bubble Sorting of elements in an array.
-// Best Case TC : O(n)
+// Best Case TC : O(n) - This is for Optimized Algo
 // Worst Case TC : O(n^2)
 
 use std::time::Instant;
